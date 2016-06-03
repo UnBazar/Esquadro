@@ -1,5 +1,5 @@
 # Esquadro
-A set of tools to collect and analyze the code's metrics in order to keep an datawarehouse.
+A set of tools to collect and analyze the code's metrics in order to keep a datawarehouse.
 
 ## Description
 Esquadro was born from some works in University of Brasília, through some final papers that used a methodology developed by professor [P. Meirelles](https://fga.unb.br/paulormm/).
